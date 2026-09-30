@@ -6,6 +6,8 @@
 | Integrante 2 | Nicolas Dier | nicolasdier23 | Integrante 2: cambiar botón y colector de gold |
 
 
+```markdown
+### Líder
 
 Push exitoso:
 
