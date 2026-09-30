@@ -25,7 +25,7 @@ Push exitoso después de resolver conflicto:
 
 Error antes de resolver conflicto:
 
-![Error Integrante 2](capturas/integrante1_error.jpeg)
+![Error Integrante 2](capturas/integrante2_error.jpeg)
 
 Push exitoso después de resolver conflicto:
 
