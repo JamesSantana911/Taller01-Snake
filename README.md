@@ -6,7 +6,7 @@
 | Integrante 2 | Nicolas Dier | nicolasdier23 | Integrante 2: cambiar botón y colector de gold |
 
 
-```markdown
+
 ### Líder
 
 Push exitoso:
@@ -34,4 +34,4 @@ Push exitoso después de resolver conflicto:
 ![Push exitoso Integrante 2](capturas/integrante2_push_exitoso.jpeg)
 
 
-```
+
